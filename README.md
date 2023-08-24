@@ -1,4 +1,4 @@
-- 👋 Hi, I’m A.F.Hirana 
+- 👋 Hi, I’m Hirana 
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning GCP and Cloud Computing
 - 💞️ I’m looking to collaborate on Any local/Overseas Companies
